@@ -65,6 +65,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Animation\MovementAnimationParameterControl.cs" />
+    <Compile Include="Assets\Scripts\Enums\Enums.cs" />
+    <Compile Include="Assets\Scripts\Events\EventHandler.cs" />
     <Compile Include="Assets\Scripts\Misc\SingletonMonobehaviour.cs" />
     <Compile Include="Assets\Scripts\Player\Player.cs" />
     <Reference Include="Unity.Timeline.Editor">
